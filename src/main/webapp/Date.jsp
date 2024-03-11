@@ -1,0 +1,1 @@
+current date and time is : <%= new java.util.Date() %>
